@@ -13,4 +13,8 @@ would be in the far future if at all.
 
 ## Current Status
 Currently, I am contemplating how to best structure the program, including how to ensure
-ease of expandability in the future. 
+ease of expandability in the future.
+
+## Put usage instructions here
+
+## Put stuff about language and compiler versions here
