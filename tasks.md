@@ -28,6 +28,7 @@
     * block size
     * replacement policies
 * Number of registers int/float(hardware)
+    * 32 vs 64 bit
 
 ## Program Functionality
 * Simulate pipeline or compute?
