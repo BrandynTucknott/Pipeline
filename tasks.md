@@ -18,6 +18,17 @@
 * Compiler Options (LLVM)
     * how good of a compiler?
     * what settings are available
+* Clock cycle time (hardware)
+* Branch prediction strategy (hardware)
+* Hazard detection + resolution strategies (compiler/hardware)
+* Cache configurations (future work)
+    * levels
+    * sizes
+    * associativity
+    * block size
+    * replacement policies
+* Number of registers int/float(hardware)
 
 ## Program Functionality
 * Simulate pipeline or compute?
+* compute CPI/IPC and execution time
