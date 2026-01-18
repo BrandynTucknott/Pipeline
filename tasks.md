@@ -33,3 +33,14 @@
 ## Program Functionality
 * Simulate pipeline or compute?
 * compute CPI/IPC and execution time
+* store parameters in *.ini* file for easy modification
+    * read from *.ini* file to set operating conditions
+
+
+
+
+## What to do now?
+* Set up *.ini* file for parameters
+* set up read for assmebly instruction file (.txt file?)
+* record down RV32I + RV32F instructions
+* implement basic 5-stage pipeline
